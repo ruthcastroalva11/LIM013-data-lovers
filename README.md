@@ -180,6 +180,9 @@ Trabajamos con la herramienta de diseño visual [Figma](https://www.figma.com/),
 ![PrototipoAlta22](src/images/prototipo/PrototipoAlta22.PNG)
 ![PrototipoAlta23](src/images/prototipo/PrototipoAlta23.PNG)
 
+#### Link de Zeplin:
+hhttps://zpl.io/adgREwe
+
 
 #### HISTORIAS DE USUARIO :pushpin:
 
